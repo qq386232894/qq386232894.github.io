@@ -1,2 +1,2 @@
-# qq386232894.github.io
-home page
+# home
+home page of my  repository
